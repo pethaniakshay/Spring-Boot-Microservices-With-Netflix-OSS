@@ -26,5 +26,6 @@
 		<module>eureka-naming-server</module>
 		<module>zuul-api-gateway</module>
 		<module>student</module>
+		<module>student-result</module>
 	</modules>	
 </project>
