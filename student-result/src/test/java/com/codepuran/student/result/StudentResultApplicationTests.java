@@ -1,4 +1,4 @@
-package com.codepuran.student.result.studentresult;
+package com.codepuran.student.result;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
